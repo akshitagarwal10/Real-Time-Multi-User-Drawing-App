@@ -3,7 +3,7 @@ Its a drawing app built on html5 canvas, JS and sockets in node.js. Real time mu
 
 
 --Clone or donwload the zip folder.
---Unzip it if download zip
---run app.js via command line (type node app.js)
---open localhost:3000 on your browser
+--Unzip it if download zip.
+--run app.js via command line (type node app.js).
+--open localhost:3000 on your browser.
 **open same in new window or tab, then draw on one and you will find same pattern appearing on ither windows or tabs as well.
