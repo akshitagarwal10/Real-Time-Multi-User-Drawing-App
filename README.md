@@ -2,7 +2,7 @@
 Its a drawing app built on html5 canvas, JS and sockets in node.js. Real time multi-user means that other person could see what you are drawing and vice versa in real time.
 
 
---Clone or donwload the zip folder.
+--Clone or download the zip folder.
 
 --Unzip it if downloaded zip.
 
